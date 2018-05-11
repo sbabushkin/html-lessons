@@ -10,20 +10,20 @@ body {
 .header {
     max-width: 1280px;
     min-height: 324px;
-    
+    margin: auto;
+
 }
 .blog_1 {
-
-    display: inline-block;
-    width: 590px;
-    height: 273px;
+    float: left;
+    width: 50%;
+    min-height: 273px;
     border: blueviolet 2px solid;
 
 }
 .blog_2 {
-    display: inline-block;
-    width: 590px;
-    height: 273px;
+    float: right;
+    width: 50%;
+    min-height: 273px;
     border: red 2px solid;
 }
 h1 {
