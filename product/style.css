@@ -16,14 +16,14 @@ body {
 .blog_1 {
     float: left;
     width: 50%;
-    min-height: 273px;
+    min-height: 324px;
     border: blueviolet 2px solid;
 
 }
 .blog_2 {
     float: right;
     width: 50%;
-    min-height: 273px;
+    min-height: 324px;
     border: red 2px solid;
 }
 h1 {
